@@ -26,4 +26,5 @@ input.onButtonPressed(Button.AB, function() {
     }
     console.log(password);
     basic.showString(password);
+    basic.showString(length.toString());
 })
